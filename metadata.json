@@ -1,0 +1,6 @@
+{
+  "name": "HSK 3 Hanzi Master - Spaced Repetition SRS",
+  "description": "Ứng dụng luyện nhớ mặt chữ Hán HSK 3 với thuật toán Spaced Repetition (SRS), phát âm audio, 5 dạng bài tập luyện đọc và biểu đồ theo dõi tiến độ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
